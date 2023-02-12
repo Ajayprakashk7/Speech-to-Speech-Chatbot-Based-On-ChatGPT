@@ -15,7 +15,7 @@ Flask
 Requests
 SpeechRecognition
 PyAudio
-etc................
+   etc................
 You can install these packages by running the following command in your terminal:
 
 pip install Flask Requests SpeechRecognition PyAudio
