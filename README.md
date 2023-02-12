@@ -14,6 +14,8 @@ You will need to have an API key for OpenAI's ChatGPT API. You can sign up for o
 
 You will also need to have the following packages installed:
 
+use pip/pip3/brew install <package-name>
+
 open ai
 
 Flask
@@ -23,6 +25,8 @@ Requests
 SpeechRecognition
 
 PyAudio
+  
+and more packages are there i forgot😅
 
 You can install these packages by running the following command in your terminal:
 
@@ -52,13 +56,13 @@ The chatbot can handle a wide range of queries, from answering general knowledge
 
 Contributing
 
-     Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly     appreciated.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-   1. Fork the project
-   2. Create your feature branch (git checkout -b feature/AmazingFeature).  
-   3. Commit your changes (git commit -m 'Add some AmazingFeature').
-   4. Push to the branch (git push origin feature/AmazingFeature)
-   5. Open a pull request
+        1. Fork the project
+        2. Create your feature branch (git checkout -b feature/AmazingFeature).  
+        3. Commit your changes (git commit -m 'Add some AmazingFeature').
+        4. Push to the branch (git push origin feature/AmazingFeature)
+        5. Open a pull request
    
    
    License
