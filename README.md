@@ -23,7 +23,7 @@ Installing
   
   1. Clone the repository to your local machine using the following command:
    
-     git clone https://github.com/Ajayprakashk7/Speech-to-Speech-Chatbot-using-ChatGPT.git
+     git clone https://github.com/Ajayprakashk7/Chatbot-based-on-ChatGPT.git
      
   2. Navigate to the project directory:
     
