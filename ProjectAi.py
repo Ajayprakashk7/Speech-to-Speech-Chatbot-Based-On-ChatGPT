@@ -11,7 +11,7 @@ from gtts import gTTS
 from playsound import playsound
 
 # settings and keys
-openai.api_key = "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"
+openai.api_key = "<Enter-Your-API-Key>"
 model_engine = "text-davinci-002"
 language = 'en'
 
