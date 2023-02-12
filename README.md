@@ -15,6 +15,7 @@ Flask
 Requests
 SpeechRecognition
 PyAudio
+etc................
 You can install these packages by running the following command in your terminal:
 
 pip install Flask Requests SpeechRecognition PyAudio
@@ -28,7 +29,7 @@ Installing
      
   2. Navigate to the project directory:
     
-     select ProjectAi.py
+     ProjectAi.py is the file. Run it using terminal or other Editor
      
      Run the following command to start the chatbot:
      
