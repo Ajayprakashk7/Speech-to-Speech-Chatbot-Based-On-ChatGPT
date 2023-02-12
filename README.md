@@ -7,15 +7,20 @@ Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
-You will need to have an API key for OpenAI's ChatGPT API. You can sign up for one here( https://platform.openai.com/signup/ ).
+You will need to have an API key for OpenAI's ChatGPT API. You can sign up for one here(https://platform.openai.com/signup/).
 
 You will also need to have the following packages installed:
 
+open ai
+
 Flask
+
 Requests
+
 SpeechRecognition
+
 PyAudio
-   etc................
+
 You can install these packages by running the following command in your terminal:
 
 pip install Flask Requests SpeechRecognition PyAudio
