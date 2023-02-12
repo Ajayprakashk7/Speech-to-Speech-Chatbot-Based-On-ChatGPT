@@ -1,12 +1,15 @@
 # Speech to Speech Chatbot Integrated with ChatGPT.
+
 This is a speech to speech chatbot integrated with OpenAI's ChatGPT API. The chatbot has been designed to handle various natural language queries and provide conversational responses. Additionally, the chatbot also supports smart home automation commands that allow you to control your connected devices with just your voice.
 
 This project is sill a work in progress so new features and improvements will be made
 
 Getting Started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
+
 You will need to have an API key for OpenAI's ChatGPT API. You can sign up for one here(https://platform.openai.com/signup/).
 
 You will also need to have the following packages installed:
@@ -43,10 +46,12 @@ Installing
              
      Recommended to use VS Code
      
-     Usage.
+ Usage.
+     
 The chatbot can handle a wide range of queries, from answering general knowledge questions to providing weather updates and everything ChatGpt can do.
 
 Contributing
+
      Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly     appreciated.
 
    1. Fork the project
@@ -57,9 +62,11 @@ Contributing
    
    
    License
+   
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Acknowledgments
+
 Hat tip to anyone whose code was used
 Inspiration
 etc.
