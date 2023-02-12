@@ -1,6 +1,7 @@
-# Speech to Speech Chatbot Integrated with ChatGPT 
+# Speech to Speech Chatbot Integrated with ChatGPT.
+This is a speech to speech chatbot integrated with OpenAI's ChatGPT API. The chatbot has been designed to handle various natural language queries and provide conversational responses. Additionally, the chatbot also supports smart home automation commands that allow you to control your connected devices with just your voice.
 
-This project is a speech to speech chatbot integrated with OpenAI's ChatGPT API. The chatbot has been designed to handle various natural language queries and provide conversational responses. Additionally, the chatbot also supports smart home automation commands that allow you to control your connected devices with just your voice.
+This project is sill a work in progress so new features and improvements will be made
 
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -40,7 +41,7 @@ Installing
 The chatbot can handle a wide range of queries, from answering general knowledge questions to providing weather updates and everything ChatGpt can do.
 
 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+     Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly     appreciated.
 
    1. Fork the project
    2. Create your feature branch (git checkout -b feature/AmazingFeature).  
