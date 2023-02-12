@@ -1,4 +1,4 @@
-# Speech to Speech Chatbot & Smart Home Automation Integrated with ChatGPT 
+# Speech to Speech Chatbot Integrated with ChatGPT 
 
 This project is a speech to speech chatbot integrated with OpenAI's ChatGPT API. The chatbot has been designed to handle various natural language queries and provide conversational responses. Additionally, the chatbot also supports smart home automation commands that allow you to control your connected devices with just your voice.
 
@@ -37,7 +37,7 @@ Installing
      Recommended to use VS Code
      
      Usage.
-The chatbot can handle a wide range of queries, from answering general knowledge questions to providing weather updates and even controlling your smart home devices(In progress).
+The chatbot can handle a wide range of queries, from answering general knowledge questions to providing weather updates and everything ChatGpt can do.
 
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
