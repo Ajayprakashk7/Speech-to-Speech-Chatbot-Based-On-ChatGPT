@@ -23,13 +23,34 @@ Installing
   
   1. Clone the repository to your local machine using the following command:
    
-     git clone https://github.com/Ajayprakashk7/Chatbot-based-on-ChatGPT.git
+         git clone https://github.com/Ajayprakashk7/Speech-to-Speech-Chatbot-Based-On-ChatGPT.git
      
   2. Navigate to the project directory:
     
-     select ProjectAi.py and run the file using
+     select ProjectAi.py
      
-       python ProjectAi.py
+     Run the following command to start the chatbot:
+     
+               python ProjectAi.py
+             
+             
+     Recommended to use VS Code
+     
+     Usage.
+The chatbot can handle a wide range of queries, from answering general knowledge questions to providing weather updates and even controlling your smart home devices(In progress).
+
+Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+   1. Fork the project
+   2. Create your feature branch (git checkout -b feature/AmazingFeature).  
+   3. Commit your changes (git commit -m 'Add some AmazingFeature').
+   4. Push to the branch (git push origin feature/AmazingFeature)
+   5. Open a pull request
+   
+   
+   License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
 
