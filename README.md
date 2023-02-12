@@ -1,4 +1,6 @@
-# Speech to Speech Chatbot Integrated with ChatGPT.
+# Speech to Speech Chatbot Integrated with ChatGPT(Work in Progress).
+
+Beta version Released...
 
 This is a speech to speech chatbot integrated with OpenAI's ChatGPT API. The chatbot has been designed to handle various natural language queries and provide conversational responses. Additionally, the chatbot also supports smart home automation commands that allow you to control your connected devices with just your voice.
 
